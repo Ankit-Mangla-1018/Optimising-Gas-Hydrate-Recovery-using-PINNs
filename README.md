@@ -166,7 +166,7 @@ MSE      : 1.255
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/gas-hydrate-pgnn.git
+git clone https://github.com/<ankitmangla1018>/gas-hydrate-pgnn.git
 cd gas-hydrate-pgnn
 pip install -r requirements.txt
 ```
